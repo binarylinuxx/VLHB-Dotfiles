@@ -1,0 +1,23 @@
+{
+	border-radius: 20px;
+}
+
+#window {
+	 font-size: 15px;
+	 font-family: "Jetbrains Mono";
+	 border-radius: 20px;
+	 background-color: rgba(000, 120, 000, 0.8);
+} 
+
+#entry:selected {
+	background-color: #015000;
+	color: #000000;
+}
+
+#text:selected {
+        color: black;
+}
+
+#input {
+         background-color: rgba(000, 120, 000, 0.4);
+}
