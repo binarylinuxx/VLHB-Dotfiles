@@ -91,12 +91,6 @@ cyan = "#807F80"
 white = "#545454"
 
 [font]
-
-normal.family = "JetBrains Mono"
-bold.family = "JetBrains Mono"
-italic.family = "JetBrains Mono"
-bold_italic.family = "JetBrains Mono"
-
 size = 11.5
 
 # Tip: for inspiration, look for values in the source code files of your favorite VS Code themes, and use the color picker in
